@@ -46,7 +46,8 @@ export const InputCtn=styled.input`
     background:#000;
     border-radius:10px;
     color:#fff;
-    border:none:
+    border:none;
+    padding: 10px;
 `;
 
 export const Button = styled.button`
